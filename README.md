@@ -24,7 +24,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<h3 align="left">GitHub Stats</h3>
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
@@ -49,6 +49,7 @@
   </details>
   
 <h3>Featured Repositories</h3>
+
 <div width="100%" align="center">
   <a align="center" href="https://github.com/KiuPhox/Fahasa" title="Fahasa"><img align="left" width='45%' src="https://github-readme-stats.vercel.app/api/pin/?username=KiuPhox&repo=Fahasa&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="center" href="https://github.com/KiuPhox/Shakespeare" title="Shakespearer"><img align="right" width='45%' src="https://github-readme-stats.vercel.app/api/pin/?username=KiuPhox&repo=Shakespeare&theme=react&border_color=61dafb&border_radius=10"></a>
@@ -65,23 +66,25 @@
 
 <br><br><br><br><br>
 
-<h2 align="center">Feel free to contact me</h2>
-<br>
-<!-- https://icons8.com -->
-<div align="center">
-  <a href="https://www.facebook.com/kiuphox/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="kiuphox-facebook" />
-  </a>
-  <a href="https://www.linkedin.com/in/kiuphox/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="kiuphox-linkedin" />
-  </a>
-  <a href="mailto:tuan.nguyenphananh@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="kiuphox-email" />
-  </a>
-</div>
+<h2 align="left">Feel free to contact me</h2>
 
-<h3 align="left"><h2 align="center">🛠 Technologies and Tools 🛠</h2>
-<br></h3>
+<div align="center">
+<a href="https://github.com/KiuPhox" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/KiuPhox" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/kiuphox" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/kiuphox221202" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+</div>  
+
+<h2 align="left">Technologies and Tools</h2>
+
 <p align="center">  
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>

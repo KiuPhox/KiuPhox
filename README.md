@@ -29,7 +29,6 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KiuPhox&theme=react&border=61dafb&hide_border=true" alt="KiuPhox" /></p>
 
-
 <details><summary><h3>Profile Stats</h3></summary>
 
 ----
@@ -60,7 +59,7 @@
 	
 [![](https://github-readme-activity-graph.cyclic.app/graph?username=KiuPhox&theme=github)](https://github.com/KiuPhox/github-readme-activity-graph)
 
-<br><br><br><br><br>
+<br><br><br><br>
 
 <h2 align="left">Feel free to contact me</h2>
 

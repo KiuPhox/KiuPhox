@@ -3,26 +3,26 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+KiuPhox....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+
+
 <h3 align="center">Just an indie game developer with furry fetish!</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=KiuPhox&label=Profile%20views&color=0e75b6&style=flat" alt="KiuPhox" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/KiuPhox/KiuPhox/assets/79034091/60b3614c-1724-4fa0-8038-4ac4f9244421">
 
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=KiuPhox&label=Profile%20views&color=0e75b6&style=flat" alt="KiuPhox" /> </p>
-
-
-- 👨‍💻 All of my projects are available at [https://github.com/KiuPhox](https://github.com/KiuPhox)
+- 🌱 All of my projects are available at [https://github.com/KiuPhox](https://github.com/KiuPhox)
 
 - 📫 How to reach me **tuan.nguyenphananh@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/KiuPhox/](https://www.linkedin.com/in/kiuphox/)
+- ❓ Ask me about anything related to game development and related technologies
 
-- :page_with_curl: I'm currently learning:
+- ⚡ Fun fact: I like to keep my night shift activated 24 x 7
+
+- 📄 I'm currently learning:
 <br><br>
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<br>
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 
@@ -48,24 +48,22 @@
 <br>
   </details>
   
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
+<h3>Featured Repositories</h3>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/KiuPhox/Fahasa" title="Fahasa"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KiuPhox&repo=Fahasa&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/KiuPhox/Shakespeare" title="Shakespearer"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KiuPhox&repo=Shakespeare&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="center" href="https://github.com/KiuPhox/Fahasa" title="Fahasa"><img align="left" width='45%' src="https://github-readme-stats.vercel.app/api/pin/?username=KiuPhox&repo=Fahasa&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="center" href="https://github.com/KiuPhox/Shakespeare" title="Shakespearer"><img align="right" width='45%' src="https://github-readme-stats.vercel.app/api/pin/?username=KiuPhox&repo=Shakespeare&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br/><br/><br/><br/><br/><br/>
+<br><br><br><br><br><br><br><br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/KiuPhox/Axie-Evolution" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KiuPhox&repo=Axie-Evolution&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/KiuPhox/Microcontroller-Lab" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KiuPhox&repo=Microcontroller-Lab&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="center" href="https://github.com/KiuPhox/Axie-Evolution" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" width='45%' src="https://github-readme-stats.vercel.app/api/pin/?username=KiuPhox&repo=Axie-Evolution&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="center" href="https://github.com/KiuPhox/Microcontroller-Lab" title="Minesweeper"><img align="right" width='45%' src="https://github-readme-stats.vercel.app/api/pin/?username=KiuPhox&repo=Microcontroller-Lab&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 	
 <br>
 	
 [![](https://github-readme-activity-graph.cyclic.app/graph?username=KiuPhox&theme=github)](https://github.com/KiuPhox/github-readme-activity-graph)
-</details>
-<br>
 
-<p align="left">
+<br><br><br><br><br>
 
 <h2 align="center">Feel free to contact me</h2>
 <br>
@@ -81,7 +79,6 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="kiuphox-email" />
   </a>
 </div>
-</p>
 
 <h3 align="left"><h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br></h3>

@@ -3,12 +3,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+KiuPhox....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<h3 align="center">Just an indie game developer with furry fetish.</h3>
+<h3 align="center">Just an indie game developer with furry fetish!</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/KiuPhox/KiuPhox/assets/79034091/60b3614c-1724-4fa0-8038-4ac4f9244421">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KiuPhox&label=Profile%20views&color=0e75b6&style=flat" alt="KiuPhox" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=KiuPhox&label=Profile%20views&color=0e75b6&style=flat" alt="KiuPhox" /> </p>
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/KiuPhox](https://github.com/KiuPhox)

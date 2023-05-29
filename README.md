@@ -10,6 +10,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/KiuPhox/KiuPhox/assets/79034091/60b3614c-1724-4fa0-8038-4ac4f9244421">
 
+
 - 🌱 All of my projects are available at [https://github.com/KiuPhox](https://github.com/KiuPhox)
 
 - 📫 How to reach me **tuan.nguyenphananh@gmail.com**
@@ -24,31 +25,26 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
-<h3 align="left">GitHub Stats</h3>
-
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
-
-----	
+<h2 align="left">GitHub Stats</h3>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KiuPhox&theme=react&border=61dafb&hide_border=true" alt="KiuPhox" /></p>
 
-</details>
 
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+<details><summary><h3>Profile Stats</h3></summary>
 
 ----
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=KiuPhox&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <a  href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source" >
+      <img align="left" width="46%" height=200 src="https://github-readme-stats.vercel.app/api?username=KiuPhox&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiuPhox&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width="46%" height=200 align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiuPhox&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
-<br>
-  </details>
-  
-<h3>Featured Repositories</h3>
+	<br><br><br><br><br><br><br><br><br>
+</details>
+
+<h2>Featured Repositories</h2>
 
 <div width="100%" align="center">
   <a align="center" href="https://github.com/KiuPhox/Fahasa" title="Fahasa"><img align="left" width='45%' src="https://github-readme-stats.vercel.app/api/pin/?username=KiuPhox&repo=Fahasa&theme=react&border_color=61dafb&border_radius=10"></a>

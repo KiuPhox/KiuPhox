@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm KiuPhox</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+KiuPhox....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 <h3 align="center">Just an indie game developer with furry fetish.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -13,6 +17,11 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/KiuPhox/](https://www.linkedin.com/in/kiuphox/)
 
+- :page_with_curl: I'm currently learning:
+<br><br>
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 <br>
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
@@ -21,7 +30,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KiuPhox&theme=tokyonight_duo" alt="KiuPhox" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KiuPhox&theme=react&border=61dafb&hide_border=true" alt="KiuPhox" /></p>
 
 </details>
 
@@ -30,25 +39,35 @@
 ----
 
 <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=KiuPhox&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="KiuPhox's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KiuPhox&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KiuPhox&langs_count=5&show_icons=true&locale=en&theme=tokyonight" alt="KiuPhox" height="230px"/>
-
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiuPhox&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
 <br>
   </details>
   
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-----
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/KiuPhox/Fahasa" title="Fahasa"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KiuPhox&repo=Fahasa&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/KiuPhox/Shakespeare" title="Shakespearer"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KiuPhox&repo=Shakespeare&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/KiuPhox/Axie-Evolution" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KiuPhox&repo=Axie-Evolution&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/KiuPhox/Microcontroller-Lab" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KiuPhox&repo=Microcontroller-Lab&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
 	
-[![](https://github-readme-activity-graph.cyclic.app/graph?username=KiuPhox&theme=github	)](https://github.com/KiuPhox/github-readme-activity-graph)
- 
-  </details>
-
+<br>
+	
+[![](https://github-readme-activity-graph.cyclic.app/graph?username=KiuPhox&theme=github)](https://github.com/KiuPhox/github-readme-activity-graph)
+</details>
+<br>
 
 <p align="left">
-<br>
-<h2 align="center">👽 Where to find me 👽</h2>
+
+<h2 align="center">Feel free to contact me</h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">

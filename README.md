@@ -51,8 +51,8 @@
 </div>
 <br><br><br><br><br><br><br><br>
 <div width="100%" align="center">
-  <a align="center" href="https://github.com/KiuPhox/Axie-Evolution" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" width='45%' src="https://github-readme-stats.vercel.app/api/pin/?username=KiuPhox&repo=Axie-Evolution&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="center" href="https://github.com/KiuPhox/Microcontroller-Lab" title="Minesweeper"><img align="right" width='45%' src="https://github-readme-stats.vercel.app/api/pin/?username=KiuPhox&repo=Microcontroller-Lab&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="center" href="https://github.com/KiuPhox/Axie-Evolution"><img align="left" width='45%' src="https://github-readme-stats.vercel.app/api/pin/?username=KiuPhox&repo=Axie-Evolution&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="center" href="https://github.com/KiuPhox/Lettuce_DADN"><img align="right" width='45%' src="https://github-readme-stats.vercel.app/api/pin/?username=KiuPhox&repo=Lettuce_DADN&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 	
 <br>
